@@ -1,7 +1,6 @@
 # iteraTREE 🌱
 
-iteraTREE is an interactive system designed to enhance the **trial-and-error process** in text-to-image generation.  
-By leveraging a **tree-based structure**, it helps users visualize their iteration history, refine prompts more effectively, and confidently navigate AI-generated outputs.
+iteraTREE is an interactive system designed to enhance the **trial-and-error process** in text-to-image generation. By leveraging a **tree-based structure**, it helps users visualize their iteration history, refine prompts more effectively, and confidently navigate AI-generated outputs.
 
 ---
 
@@ -36,14 +35,14 @@ This structure ensures a **clear and organized progression** of iterations, allo
 - The **left section** hosts the "Best Images" column for side-by-side comparison.  
 - Each generated image includes:  
   - **"Save to Best"** → Adds the image to the comparison column.  
-  - **"Re-iterate"** → Copies the prompt, provides refinement hints, and regenerates an updated image.  
+  - **"AI-assist"** → Copies the prompt, provides refinement hints, and regenerates an updated image.  
 
 By integrating **pattern recognition and AI-driven guidance**, iteraTREE streamlines the creative workflow and **reduces the cognitive load** involved in prompt refinement.
 
 ---
 
 ## 📌 Getting Started
-##️# 1. Clone the Repository  
+### 1. Clone the Repository  
 ```
 git clone git@github.com:DainPixel/iteraTREE.git
 cd iteraTREE
@@ -58,10 +57,6 @@ node server.js
 ```
 Then, open http://localhost:3000 in your browser.
 
-🤝 Contributing
+## Contributing & License
 
-We welcome contributions! Feel free to submit issues, suggestions, or pull requests to improve iteraTREE.
-
-🏛️ License
-
-This project is licensed under the MIT License. When using or referencing this project, please credit DainPixel and include a link to GitHub.
+We welcome contributions! Feel free to submit issues, suggestions, or pull requests to improve iteraTREE.This project is licensed under the MIT License. When using or referencing this project, please credit DainPixel and include a link to GitHub.
