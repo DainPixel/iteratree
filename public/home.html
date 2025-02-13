@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Tree Interface</title>
+    <link rel="stylesheet" href="home.css">
+</head>
+<body>
+    <div id="interface">
+
+        <!-- Left Column -->
+        <div id="left-column">
+            <h2>Best Images</h2>
+            <div id="best-images"></div>
+        </div>
+    
+        <!-- Right Column -->
+        <div id="right-column">
+            <div id="tree-container"></div>
+    
+            <!-- Input Section -->
+            <div id="input-section">
+                <textarea id="prompt-input" placeholder="Enter your prompt here..."></textarea>
+                <button id="generate-button">Generate</button>
+            </div>
+    
+            <!-- Zoom Controls -->
+            <button id="zoom-in" class="zoom-button">+</button>
+            <button id="zoom-out" class="zoom-button">-</button>
+            <div id="zoom-level">x 1.0</div>
+        </div>
+    </div>
+
+    <script src="home.js"></script>
+</body>
+</html>
