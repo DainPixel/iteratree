@@ -3,7 +3,7 @@
 iteraTREE is an interactive system designed to enhance the **trial-and-error process** in text-to-image generation. By leveraging a **tree-based structure**, it helps users visualize their iteration history, refine prompts more effectively, and confidently navigate AI-generated outputs.
 
 
-![iteraTree](images/figure_4_itera_shadow_xs.png)
+![iteraTree](images/figure_4_iteratree_smallsize.png)
 
 **Figure. User interface of iteraTree.**  
 (1) Users can freely navigate the tree-based structure, with the selected node appearing larger to indicate it as the starting point for the next child prompt.  
