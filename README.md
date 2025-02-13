@@ -59,4 +59,4 @@ Then, open http://localhost:3000 in your browser.
 
 ## Contributing & License
 
-We welcome contributions! Feel free to submit issues, suggestions, or pull requests to improve iteraTREE.This project is licensed under the MIT License. When using or referencing this project, please credit DainPixel and include a link to GitHub.
+We welcome contributions! Feel free to submit issues, suggestions, or pull requests to improve iteraTREE. This project is licensed under the MIT License. When using or referencing this project, please credit DainPixel and include a link to GitHub.
