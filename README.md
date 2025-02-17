@@ -42,7 +42,7 @@ This structure ensures a **clear and organized progression** of iterations, allo
 - The **left section** hosts the "Best Images" column for side-by-side comparison.  
 - Each generated image includes:  
   - **"Save to Best"** → Adds the image to the comparison column.  
-  - **"AI-assist"** → Copies the prompt, provides refinement hints, and regenerates an updated image.  
+  - **"AI-assist"** → Copies the prompt and provides refinement hints.
 
 By integrating **pattern recognition and AI-driven guidance**, iteraTREE streamlines the creative workflow and **reduces the cognitive load** involved in prompt refinement.
 
