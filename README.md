@@ -64,6 +64,18 @@ node server.js
 ```
 Then, open http://localhost:3000 in your browser.
 
+---
+
+## ⚠️ Note on API Keys
+This project requires an **OpenAI API key** to function properly.  
+For security reasons, the key is **not included in the repository**.  
+Please create a `.env` file in the root directory and insert your own API key:
+
+Since the system was primarily developed and tested in a local environment, some issues may occur when running it in different setups.  
+If you encounter any problems or need further clarification, please feel free to reach out!
+
+
+
 ## Contributing & License
 
 We welcome contributions! Feel free to submit issues, suggestions, or pull requests to improve iteraTREE. This project is licensed under the MIT License. When using or referencing this project, please credit DainPixel and include a link to GitHub.
